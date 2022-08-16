@@ -10,7 +10,7 @@ This means that a simple Shortcut that replaces <span style="color:red">**viewer
 
 # How to download
 
-To download the Shortcut, just open the .shortcut file and click "View Raw" or click [here](https://raw.githubusercontent.com/Andreag00/Studwiz-Download/main/Studwiz-Download.shortcut). It will then ask you whether you want to download the file, click "Download", then click the little blue icon in the navigation bar and click on the file: this will open the Shortcuts app. After that just click "Add Shortcut" at the bottom of the page.
+To download the Shortcut, just open the .shortcut file and click "View Raw" or click [here](https://github.com/Andreag00/Studwiz-Download/releases/download/v1.0.0/Studwiz-Download.shortcut). It will then ask you whether you want to download the file, click "Download", then click the little blue icon in the navigation bar and click on the file: this will open the Shortcuts app. After that just click "Add Shortcut" at the bottom of the page.
 
 Otherwise, open the "link" file or click [here](https://raw.githubusercontent.com/Andreag00/Studwiz-Download/main/link), copy the link and paste it in the navigation bar, this will open the Shortcuts app, then click "Add Shortcut" at the bottom of the page.
 
